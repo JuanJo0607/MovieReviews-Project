@@ -1,4 +1,4 @@
-#!/home/juandev22/Documents/EAFIT/Proyecto_Integrador_01/Taller01/MOVIEREVIEWSPROJECT/.venv/bin/python3
+#!/home/juandev22/Documents/EAFIT/ProyectoIntegrador01/Taller01/MOVIEREVIEWSPROJECT/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
